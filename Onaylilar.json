@@ -1,1 +1,7 @@
-["aeromods.app",eminnonay,emin10p]
+{
+  "verified": {
+    "enabled": true,
+    "only_self": true,
+    "badge_color": "blue"
+  }
+}
